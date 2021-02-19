@@ -52,3 +52,8 @@
 >Domain
 - *.fostiums.org
 - fosti.ums.ac.id
+
+## Send Report to
+- git@fostiums.org 
+- CC fostiums@gmail.com
+- Subject : Bug Report <Target Domain> (Example : Bug Report event.fostiums.org)
