@@ -8,7 +8,8 @@
     - mengeksploitasi masalah keamanan yang dapat menyebabkan terganggunya operasional.
 - Anda akan mendapatkan sertifikat dan hall of fame atas temuan kerentanan tersebut.
 - Mohon untuk menunggu, proses pemberian sertifikat dapat berlangsung 7 hingga 60 hari kerja setelah ditetapkan level risiko.
-- In Scope Vulnerabilities
+
+**In Scope Vulnerabilities
 - Account takeover
 - Authentication bypass
 - Cross-site request forgery
@@ -25,7 +26,8 @@
 - SQL Injection
 - Timing or enumeration attacks that have a tangible risk to security or privacy
 - XML External Entity Attacks (XXE)
-- Out of Scope Vulnerabilities
+
+**Out of Scope Vulnerabilities
 - Banner grabbing issues (figuring out what web server we use, etc.).
 - Being able to upload files with wrong extension in chooser.
 - Clickjacking
